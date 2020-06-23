@@ -1,4 +1,4 @@
-# awsstaticwebsite
+# Project 1 Udacity Cloud Devops Engineer 06/2020
 hosting static website with cloudfront / S3 bucket for the Cloud Devops engineer progam on UDacity june 12, 2020
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. In this project, you will deploy a static website to AWS.
 
